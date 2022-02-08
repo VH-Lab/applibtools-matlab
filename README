@@ -1,0 +1,5 @@
+http://github.com/VH-Lab/applibtools-matlab
+
+This is a package to help manage applications/libraries and their 
+installation and initialization on the Matlab path.
+
